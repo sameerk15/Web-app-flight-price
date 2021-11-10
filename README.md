@@ -18,7 +18,7 @@ inputs from user:
 6) No. of Stops
 ## Screenshots
 
-![App Screenshot](https://flightprice-api2.herokuapp.com/)
+![App Screenshot](file:///C:/Users/sameer/Downloads/WhatsApp%20Image%202021-11-10%20at%209.00.03%20AM-converted.pdf)
 
 
 ## Roadmap
