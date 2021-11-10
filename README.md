@@ -18,7 +18,7 @@ inputs from user:
 6) No. of Stops
 ## Screenshots
 
-![App Screenshot](file:///C:/Users/sameer/Downloads/WhatsApp%20Image%202021-11-10%20at%209.00.03%20AM-converted.pdf)
+![App Screenshot](https://github.com/sameerk15/Web-app-flight-price/files/7509642/WhatsApp.Image.2021-11-10.at.9.00.03.AM-converted.pdf)
 
 
 ## Roadmap
